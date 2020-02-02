@@ -18,5 +18,4 @@ end
 
 def get_move
   
-display_board
 # code your input_to_index and move method here!
